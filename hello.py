@@ -1,2 +1,2 @@
 print("Hello")
-print("This was changed locally")
+print("This was changed by local machine")
